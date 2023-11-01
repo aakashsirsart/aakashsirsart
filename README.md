@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Angular**
 
-- Project completed [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)
+- Project completed [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)</br>
+                    [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)
 
 - 💬 Ask me about **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Collection Framework**
 
 - 📫 How to reach me **sirsataakash409@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tZgo2PxTlxk8cRO-BN2gWgTmphgff6CW/view?usp=sharing](https://drive.google.com/file/d/1tZgo2PxTlxk8cRO-BN2gWgTmphgff6CW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny 😁**
 
