@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsirsart&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsirsart" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce(Online Shopping) Project Using Rest API**
-
-- 🌱 I’m currently learning **Angular**
 
 - Project completed  [Loan-Granting-System](https://github.com/aakashsirsart/Loan-Granting-System)</br>
                      [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)</br>
