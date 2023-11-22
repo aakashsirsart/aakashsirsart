@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Angular**
 
-- Project completed [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)</br>
-                    [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)
+- Project completed  [Loan-Granting-System](https://github.com/aakashsirsart/Loan-Granting-System)</br>
+                     [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)</br>
+                     [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)</br>
+                    
+
+                    
 
 - 💬 Ask me about **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Collection Framework**
 
