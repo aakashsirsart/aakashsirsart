@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsirsart&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsirsart" /> </p>
 
 
-- Project completed  [Loan-Granting-System](https://github.com/aakashsirsart/Loan-Granting-System)</br>
+- Project completed  [Blog Application Using REST API](https://github.com/aakashsirsart/Blog-Application-Using-Rest-API)</br> [Loan-Granting-System](https://github.com/aakashsirsart/Loan-Granting-System)</br>
                      [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)</br>
                      [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)</br>
+                     
                     
 
                     
