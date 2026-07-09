@@ -1,51 +1,125 @@
-### Hi there 👋
-
-<!--
-**aakashsirsart/aakashsirsart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Aakash Sirsat</h1>
-<h3 align="center">Java Developer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<h3 align="center">Oracle Database Administrator (Oracle DBA)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsirsart&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsirsart" /> </p>
+<img align="right" alt="database" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-
-- Project completed  [Blog Application Using REST API](https://github.com/aakashsirsart/Blog-Application-Using-Rest-API)</br> [Loan-Granting-System](https://github.com/aakashsirsart/Loan-Granting-System)</br>
-                     [Insurance-Management-Project](https://github.com/aakashsirsart/Insurance-Management-Project)</br>
-                     [Dual Access Control](https://github.com/aakashsirsart/Dual-Access-Control-For-Cloud-Based-Data-Stoage-And-Sharing)</br>
-                     
-                    
-
-                    
-
-- 💬 Ask me about **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Collection Framework**
-
-- 📫 How to reach me **sirsataakash409@gmail.com**
-
-- ⚡ Fun fact **I think I am funny 😁**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aakash sirsat" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" alt="aakash sirsat" height="30" width="40" /></a>
-<a href="https://instagram.com/aakash_2000._" target="blank"><img align="center" src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="aakash_2000._" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=aakashsirsart&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsirsart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180821/qae/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fbb78ba2.1805803115348840917518.jpg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/496/657/png-clipart-bootstrap-scalable-graphics-logo-github-purple-violet-thumbnail.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle-thumbnail.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/5/56/png-clipart-website-development-html5-logo-world-wide-web-consortium-world-wide-web-angle-web-design-thumbnail.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/468/272/png-clipart-java-platform-enterprise-edition-computer-icons-java-api-for-restful-web-services-java-miscellaneous-text-thumbnail.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/925/551/png-clipart-mysql-mysql-thumbnail.png" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashsirsart&show_icons=true&locale=en&layout=compact" alt="aakashsirsart" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsirsart&show_icons=true&locale=en" alt="aakashsirsart" /></p>
+- 🔭 I am working as an **Oracle Database Administrator**
+- 🌱 Currently learning **Oracle Database Administration, Performance Tuning & High Availability**
+- 💬 Ask me about **Oracle Database, SQL, PL/SQL, RMAN, Linux, Database Backup & Recovery**
+- 📚 Experience in **Oracle Database 19c Administration**
+- ⚡ Passionate about database troubleshooting and performance optimization
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsirsart&" alt="aakashsirsart" /></p>
+---
+
+### 🛠️ Oracle DBA Skills
+
+- Oracle Database 11g / 12c / 19c
+- SQL & PL/SQL
+- Database Installation & Configuration
+- Database Startup & Shutdown
+- User Management (Users, Roles, Privileges)
+- Tablespace & Datafile Management
+- Control File & Redo Log Management
+- Archive Log Management
+- RMAN Backup & Recovery
+- Data Pump (EXPDP / IMPDP)
+- Database Monitoring
+- Performance Monitoring
+- Blocking Session Analysis
+- Alert Log Monitoring
+- Linux Administration
+- Shell Scripting Basics
+- Oracle Data Guard (Basic)
+
+---
+
+### 🚀 Projects & Practice Work
+
+📌 **Oracle Database Administration Lab**
+
+- Installed and configured Oracle Database 19c environment
+- Created databases, users, roles, and privileges
+- Managed tablespaces and datafiles
+- Configured listener and database services
+- Performed RMAN backup and recovery operations
+- Troubleshot database startup and connectivity issues
+
+
+📌 **Database Monitoring Scripts**
+
+- Created SQL scripts for:
+  - Tablespace utilization monitoring
+  - Database health checks
+  - User status monitoring
+  - Session monitoring
+
+
+---
+
+### 📝 Database Topics I Work On
+
+- Database Architecture
+- SGA & PGA Management
+- Instance Recovery
+- Backup Strategies
+- RMAN Recovery Scenarios
+- Performance Tuning Basics
+- Oracle Troubleshooting
+- Production Support Activities
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/aakash-sirsat" target="blank">
+<img align="center" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" height="30" width="40" />
+</a>
+
+<a href="mailto:sirsataakash409@gmail.com">
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+<h3 align="left">Oracle DBA Tools & Technologies:</h3>
+
+<p align="left">
+
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="50" height="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/sql.svg" width="50" height="50"/>
+
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashsirsart&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsirsart&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsirsart" />
+</p>
